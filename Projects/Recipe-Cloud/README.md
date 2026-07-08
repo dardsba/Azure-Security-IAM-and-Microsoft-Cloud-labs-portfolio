@@ -12,6 +12,7 @@ Project Goals
     Test authentication and user access flows
     Run the project in a self-managed local environment
 
+![Recipe Cloud Architecture](./Infrastracutre_Recipe-Cloud.png)
 
 Technologies Used
 
