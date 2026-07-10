@@ -37,7 +37,6 @@ Technologies and Tools
     Microsoft Azure
     Microsoft Entra ID
     M365 / Intune / Active Directory
-    Python
     FastAPI
     SQLite
     Firebase Authentication / Google OAuth
