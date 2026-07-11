@@ -81,13 +81,21 @@ The CLI output confirmed:
 - role assignments were applied at the storage account scope
 
 ## Screenshots
-- `01-admin-account-iam.png`
-- `02-test-users.png`
-- `03-sotrage-account-created.png`
-- `04-role-assignment.png`
-- `05-reader-view-only.png`
-- `06-contributor-created-container.png`
-- `07-cli-role-assignment-check.png`
+## Screenshots
+
+![Admin account IAM](01-admin-account-iam.png)
+
+![Test users](02-test-users.png)
+
+![Storage account created](03-sotrage-account-created.png)
+
+![Role assignment](04-role-assignment.png)
+
+![Reader view only](05-reader-view-only.png)
+
+![Contributor created container](06-contributor-created-container.png)
+
+![CLI role assignment check](07-cli-role-assignment-check.png)
 
 ## Key Takeaways
 - Azure RBAC controls what users can do on a resource.
